@@ -1,5 +1,5 @@
 # 💫 About Me:
-### Olá 👋<br><br>- 🔭 Atualmente utilizo Python<br>- 🌱 Aprendendo Keras aplicado em redes neurais<br>- 😄 Pronomes: Ele/dele
+### Olá 👋<br><br>- 🔭 Atualmente utilizo Python<br>- 🌱 Aprendendo Keras<br>- 😄 Pronomes: Ele/dele
 
 
 ## 🌐 Socials:
